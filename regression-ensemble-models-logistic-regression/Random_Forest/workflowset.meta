@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--This file is auto-generated and is overwritten each time the workflow is saved.
+    The metadata have moved to the `workflow-metadata.xml` file.-->
+<KNIMEMetaInfo nrOfElements="4" xmlns="http://www.knime.org/2.9/metainfo">
+    <element form="text" name="Author" read-only="false">Maarit</element>
+    <element form="date" name="Creation Date" read-only="false">10/11/2019/12:00:01 +02:00</element>
+    <element form="multiline" name="Comments" read-only="false">Random Forest - solution
+
+Introduction to Machine Learning Algorithms course - Session 2
+Solution to exercise 3
+- Train a random forest model
+- Apply the model to the test set
+- Evaluate the model performance with the Scorer node
+- Perform Pparameter optimization
+
+URL: Description of the Ames Iowa Housing Data https://rdrr.io/cran/AmesHousing/man/ames_raw.html
+URL: Ames Housing Dataset on kaggle https://www.kaggle.com/prevek18/ames-housing-dataset
+URL: Random Forest https://www.youtube.com/watch?v=X4H7w6LDgYM
+URL: Slides (Introduction to ML Algorithms course) https://www.knime.com/form/material-download-registration
+
+TAGS: classification,education</element>
+    <element form="text" name="Last Edited" read-only="true">2020-12-15 17:17:47 +0100</element>
+</KNIMEMetaInfo>

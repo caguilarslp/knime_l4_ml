@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workflow-metadata content-type="text/plain" xmlns="http://www.knime.org/core/node/workflow/metadata/v1.0">
+    <author>Maarit</author>
+    <created>2019-12-10T12:00:01.000+02:00</created>
+    <last-modified>2020-12-15T17:17:47.000+01:00</last-modified>
+    <description>Random Forest - solution
+
+Introduction to Machine Learning Algorithms course - Session 2
+Solution to exercise 3
+- Train a random forest model
+- Apply the model to the test set
+- Evaluate the model performance with the Scorer node
+- Perform Pparameter optimization</description>
+    <tags>
+        <tag>classification</tag>
+        <tag>education</tag>
+    </tags>
+    <links>
+        <link href="https://rdrr.io/cran/AmesHousing/man/ames_raw.html">Description of the Ames Iowa Housing Data</link>
+        <link href="https://www.kaggle.com/prevek18/ames-housing-dataset">Ames Housing Dataset on kaggle</link>
+        <link href="https://www.youtube.com/watch?v=X4H7w6LDgYM">Random Forest</link>
+        <link href="https://www.knime.com/form/material-download-registration">Slides (Introduction to ML Algorithms course)</link>
+    </links>
+</workflow-metadata>
