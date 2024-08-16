@@ -1,4 +1,4 @@
-# Exercise 03: Random Forest
+# Exercice 03: Random Forest
 
 ## Learning Objective
 
