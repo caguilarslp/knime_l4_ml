@@ -20,7 +20,7 @@ The repository is organized into folders, each representing a different workflow
 
 ## About Me
 
-I am currently focused on developing my skills in data science and machine learning, particularly through the use of KNIME. My background includes theoretical training in machine learning, and I am eager to continue building on this foundation.
+I have a strong background in data science, with a particular focus on web scraping and data extraction. My experience includes overcoming complex anti-bot measures such as Cloudflare, Datadome, and CAPTCHA systems. While my experience with KNIME is based on theoretical training, I am dedicated to applying these skills effectively in practical settings.
 
 ## Contact
 
