@@ -20,8 +20,7 @@ The repository is organized into folders, each representing a different workflow
 
 ## About Me
 
-I'm diving into data science world, with a strong focus on web scraping and data extraction. I'm gaining solid experience in overcoming complex anti-bot measures like Cloudflare, Datadome, and CAPTCHA systems. While I'm just getting started with data science, my expertise in scraping is already strong, and I'm committed to applying these skills effectively.
-
+I'm diving into data science, with a strong focus on web scraping, data extraction, and data mining. I'm gaining solid experience in overcoming complex anti-bot measures like Cloudflare, Datadome, and CAPTCHA systems. While I'm just getting started with data science, my expertise in scraping and data mining is already strong, and I'm committed to applying these skills effectively.
 ## Contact
 
 For any questions or potential opportunities, feel free to reach out to me via [LinkedIn](https://www.linkedin.com/in/carlos-aguilar-gallego/) or email.
