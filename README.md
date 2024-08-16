@@ -20,7 +20,7 @@ The repository is organized into folders, each representing a different workflow
 
 ## About Me
 
-I have a strong background in data science, with a particular focus on web scraping and data extraction. My experience includes overcoming complex anti-bot measures such as Cloudflare, Datadome, and CAPTCHA systems. While my experience with KNIME is based on theoretical training, I am dedicated to applying these skills effectively in practical settings.
+I'm diving into data science world, with a strong focus on web scraping and data extraction. I'm gaining solid experience in overcoming complex anti-bot measures like Cloudflare, Datadome, and CAPTCHA systems. While I'm just getting started with data science, my expertise in scraping is already strong, and I'm committed to applying these skills effectively.
 
 ## Contact
 
